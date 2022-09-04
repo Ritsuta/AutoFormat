@@ -5,7 +5,7 @@ AutoFormat is a batch script that automates simple processes that is usually don
 1. ) Make sure that you **ARE CONNECTED** to the **INTERNET**.
 2. ) Run `1AutoFormat.bat` (with / without ADMIN privileges).
 
-*If any of the phases fails (ex. Downloading stopped for one file and the batch script can't proceed.) then run that phase with **ADMIN** privileges.*
+*If any of the phases fails (ex. Downloading stopped for one file and the batch script can't proceed.) then close the program and run that phase with **ADMIN** privileges.*
 
 # Phases
 
