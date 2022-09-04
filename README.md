@@ -1,3 +1,5 @@
+AutoFormat is a batch script that automates simple processes that is usually done in either fresh Windows installs or newly reset Windows.
+
 # INSTRUCTIONS
 
 1. ) Make sure that you **ARE CONNECTED** to the **INTERNET**.
